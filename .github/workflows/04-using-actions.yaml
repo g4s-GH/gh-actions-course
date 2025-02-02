@@ -13,7 +13,7 @@ jobs:
               with:
                 node-version: '23.x'
             - name: Install Dependencies
-              run: npm cli
+              run: npm ci
         # 0. Checkout the code from the repository
         # 1. Install deps of our react application
         # 2. Execute automated tests
