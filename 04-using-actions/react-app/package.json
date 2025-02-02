@@ -33,7 +33,6 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "6.6.3",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "web-vitals": "^4.2.4"
   }
